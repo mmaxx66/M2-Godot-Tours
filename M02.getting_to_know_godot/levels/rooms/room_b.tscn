@@ -1,10 +1,11 @@
-[gd_scene load_steps=8 format=3 uid="uid://dgayuh42w4v6u"]
+[gd_scene load_steps=9 format=3 uid="uid://dgayuh42w4v6u"]
 
 [ext_resource type="PackedScene" uid="uid://bupkynq73ufaa" path="res://levels/base_room.tscn" id="1"]
 [ext_resource type="Texture2D" uid="uid://bl7fmqsn8uu8h" path="res://levels/props/books_3.png" id="2"]
 [ext_resource type="Texture2D" uid="uid://cemsu0d7gpb1d" path="res://levels/props/statue_hammer.png" id="4"]
 [ext_resource type="PackedScene" uid="uid://cl1xkaij81jjs" path="res://levels/rooms/chests/chest.tscn" id="5"]
 [ext_resource type="PackedScene" uid="uid://piso1p2hou2v" path="res://enemies/haunted_sword_ai.tscn" id="7"]
+[ext_resource type="PackedScene" uid="uid://wdey00p3syru" path="res://levels/background/background_blue_sky.tscn" id="7_di3er"]
 [ext_resource type="PackedScene" uid="uid://c6vpy1xs153pi" path="res://enemies/haunted_shield_ai.tscn" id="8"]
 
 [sub_resource type="RectangleShape2D" id="1"]
@@ -47,3 +48,5 @@ position = Vector2(896, 128)
 
 [node name="HauntedSwordAI2" parent="." index="7" instance=ExtResource("7")]
 position = Vector2(384, 640)
+
+[node name="BackgroundBlueSky" parent="." index="8" instance=ExtResource("7_di3er")]

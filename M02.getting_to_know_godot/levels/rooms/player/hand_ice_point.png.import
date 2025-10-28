@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cm33qabjyo48g"
-path="res://.godot/imported/godot_bottom_right.png-46a695e6abcd82832274466b507e944a.ctex"
+uid="uid://cih6tin30smx"
+path="res://.godot/imported/hand_ice_point.png-461023a87f1e29b784c3997a63b45725.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/godot_bottom_right.png"
-dest_files=["res://.godot/imported/godot_bottom_right.png-46a695e6abcd82832274466b507e944a.ctex"]
+source_file="res://levels/rooms/player/hand_ice_point.png"
+dest_files=["res://.godot/imported/hand_ice_point.png-461023a87f1e29b784c3997a63b45725.ctex"]
 
 [params]
 

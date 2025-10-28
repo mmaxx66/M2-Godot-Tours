@@ -41,3 +41,7 @@ func _on_enemy_died(enemy: Node) -> void:
 	_enemies.erase(enemy)
 	if _enemies.is_empty():
 		open_entrances()
+
+
+func _on_invisible_walls_draw() -> void:
+	pass # Replace with function body.

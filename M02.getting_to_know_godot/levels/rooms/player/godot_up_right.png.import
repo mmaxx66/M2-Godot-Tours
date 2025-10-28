@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b2q8n8kfhhbi7"
-path="res://.godot/imported/godot_up.png-e8eefd82ab8c1af5d10772875b46c254.ctex"
+uid="uid://deiak2vt25cwr"
+path="res://.godot/imported/godot_up_right.png-c46c2085137a073596d1a5d743712d88.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/godot_up.png"
-dest_files=["res://.godot/imported/godot_up.png-e8eefd82ab8c1af5d10772875b46c254.ctex"]
+source_file="res://levels/rooms/player/godot_up_right.png"
+dest_files=["res://.godot/imported/godot_up_right.png-c46c2085137a073596d1a5d743712d88.ctex"]
 
 [params]
 

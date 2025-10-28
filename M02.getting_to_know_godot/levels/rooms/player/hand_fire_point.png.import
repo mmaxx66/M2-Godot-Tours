@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cidumvrrnn3xt"
-path="res://.godot/imported/hand_fire_closed.png-8847645b190140bdbb2880dcc51ae674.ctex"
+uid="uid://descmcrky4ul"
+path="res://.godot/imported/hand_fire_point.png-043268fa5a338817006fc17426c165ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/hand_fire_closed.png"
-dest_files=["res://.godot/imported/hand_fire_closed.png-8847645b190140bdbb2880dcc51ae674.ctex"]
+source_file="res://levels/rooms/player/hand_fire_point.png"
+dest_files=["res://.godot/imported/hand_fire_point.png-043268fa5a338817006fc17426c165ee.ctex"]
 
 [params]
 

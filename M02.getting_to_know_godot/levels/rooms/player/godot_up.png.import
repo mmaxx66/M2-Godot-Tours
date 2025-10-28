@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bi6hkhawt4g1t"
-path="res://.godot/imported/hand_lightning_open.png-1dfc50cb7b82aa5af87a6402c3533320.ctex"
+uid="uid://b2q8n8kfhhbi7"
+path="res://.godot/imported/godot_up.png-0514367bf477cfb526cd78e752752eb0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/hand_lightning_open.png"
-dest_files=["res://.godot/imported/hand_lightning_open.png-1dfc50cb7b82aa5af87a6402c3533320.ctex"]
+source_file="res://levels/rooms/player/godot_up.png"
+dest_files=["res://.godot/imported/godot_up.png-0514367bf477cfb526cd78e752752eb0.ctex"]
 
 [params]
 

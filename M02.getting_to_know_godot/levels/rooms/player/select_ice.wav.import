@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bjk0lchrm2ttj"
-path="res://.godot/imported/select_ice.wav-56ed19f01f2fa92607a212d531cdb8f3.sample"
+path="res://.godot/imported/select_ice.wav-ebfecf27da1c3a4e6520ee152fd1d0a4.sample"
 
 [deps]
 
-source_file="res://player/select_ice.wav"
-dest_files=["res://.godot/imported/select_ice.wav-56ed19f01f2fa92607a212d531cdb8f3.sample"]
+source_file="res://levels/rooms/player/select_ice.wav"
+dest_files=["res://.godot/imported/select_ice.wav-ebfecf27da1c3a4e6520ee152fd1d0a4.sample"]
 
 [params]
 

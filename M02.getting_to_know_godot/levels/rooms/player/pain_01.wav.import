@@ -2,13 +2,13 @@
 
 importer="wav"
 type="AudioStreamWAV"
-uid="uid://ursqvcxb3uov"
-path="res://.godot/imported/death_01.wav-78819b277439a27d43a0ee34cf59768b.sample"
+uid="uid://c6bk7awsqnbt8"
+path="res://.godot/imported/pain_01.wav-208ba9b8738ca4867636f5e462d52d36.sample"
 
 [deps]
 
-source_file="res://player/death_01.wav"
-dest_files=["res://.godot/imported/death_01.wav-78819b277439a27d43a0ee34cf59768b.sample"]
+source_file="res://levels/rooms/player/pain_01.wav"
+dest_files=["res://.godot/imported/pain_01.wav-208ba9b8738ca4867636f5e462d52d36.sample"]
 
 [params]
 
